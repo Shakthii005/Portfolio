@@ -1,4 +1,4 @@
-🎲 Simple Dice Game 🎲
+🎲 ROLL TO WIN 🎲
 Let's take a break from the serious stuff and have some fun with a game!
 
 Description:
