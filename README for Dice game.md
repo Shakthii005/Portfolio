@@ -8,11 +8,17 @@ This is a simple dice game implemented in Python for 2 to 4 players. The objecti
 How to Play:
 
 ---> Setup: Enter the number of players (2 to 4).
+
 ---> Gameplay: Players take turns rolling a die.
+
 ---> Rolling a 2-6 adds the number to your current score for that turn.
+
 ---> Rolling a 1 ends your turn and resets your current score for that turn to 0.
+
 ---> Strategy: Decide whether to roll again or hold to secure your points.
+
 ---> Winning: The first player to reach or exceed a total score of 50 wins the game.
+
 Features:
 
 ---> Simple and interactive gameplay
